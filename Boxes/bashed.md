@@ -2,7 +2,7 @@
 
 Machine ip: 10.10.10.68
 
-### Scanning
+### Nmap Scanning
 
 ### Nmap Scanning
 
