@@ -1,8 +1,8 @@
-### Bashed
+## Bashed
 
 Machine ip: 10.10.10.68
 
-## Scanning
+### Scanning
 
 ### Nmap Scanning
 
